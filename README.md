@@ -1,2 +1,2 @@
 # freshly
-Experimental project with Deno Fresh
+Experimental project bootstrapped with Deno Fresh
